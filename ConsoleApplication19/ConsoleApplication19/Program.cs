@@ -13,7 +13,7 @@ namespace ConsoleApplication19
             string name;
            System.Console.WriteLine("Привет Яндекс");
             name = System.Console.ReadLine();
-            System.Console.WriteLine("Приятно познакомиться");
+            System.Console.WriteLine("Приятно познакомиться,как ваши дела?");
             System.Console.ReadLine();
         }
     }
